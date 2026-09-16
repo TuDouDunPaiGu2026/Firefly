@@ -1,5 +1,5 @@
 ---
-title: "示例项目"
+title: "测试下提交"
 slug: example-project
 published: 2026-09-16
 draft: false
