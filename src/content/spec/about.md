@@ -1,13 +1,13 @@
 ---
 title: 关于我
 ---
-# 关于我 / About Me
+# 关于我
 
-你好！我是来测试的！！！
+打败幼儿园篮球队！！！
 
-::github{repo="CuteLeaf/Firefly"}
+<!-- ::github{repo="CuteLeaf/Firefly"}
 
-::github{repo="saicaca/fuwari"}
+::github{repo="saicaca/fuwari"} -->
 
 ---
 
