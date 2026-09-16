@@ -32,7 +32,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Tags,
 
 			// 系列
-			LinkPresets.Series,
+			// LinkPresets.Series,
 		],
 	});
 
