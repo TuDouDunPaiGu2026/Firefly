@@ -56,7 +56,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"静态博客",
+		"静态博客","吐槽"
 	],
 
 	// 主题色
