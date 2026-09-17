@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "留的青山在，不怕青山不在",
+	content: "留的青山在，不怕不怕辣",
 
 	// 是否允许用户关闭公告
 	closable: false,
